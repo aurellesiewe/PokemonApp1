@@ -20,10 +20,10 @@ concernant (la taille, le poids, le nom et l'id). Ces diffenrentes information s
 ### Fonctionnalités
 #### Ecran D'accueil
 -cet ecran contient un boutton **GO!**. Si on clique dessus on passe a l'ecran suivant.
-<img src="img_readme/ecran d'acceuil.png" alt="ecran d'acceuil">
+<img src="img_readme/ecran d'acceuil.jpg" alt="ecran d'acceuil">
 #### Ecran de la liste
 -liste de 187 pokemons
-<img src="img_readme/pok_list.png" alt="pok_list">
+<img src="img_readme/pok_list.jpg" alt="pok_list">
 #### Ecran des details
 -on retrouve affiché ici les details des pokemons (nom, id, taille, poids).
-<img src="img_readme/pok_detail.png" alt="pok_detail">
+<img src="img_readme/pok_detail.jpg" alt="pok_detail">
