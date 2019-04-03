@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">PokemonApp1</string>
     <string name="gotolistbutton">GO!</string>
+    <string name="pokemonId">TextView</string>
+    <string name="pokemonName">TextView</string>
+    <string name="pokemonWeight">TextView</string>
+    <string name="pokemonHeight">TextView</string>
 </resources>
