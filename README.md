@@ -27,3 +27,9 @@ concernant (la taille, le poids, le nom et l'id). Ces diffenrentes information s
 #### Ecran des details
 -on retrouve affiché ici les details des pokemons (nom, id, taille, poids).
 <img src="readme_img/pok_detail.jpg" alt="pok_detail">
+#### Animations entre les ecrans 
+-ecran 1-2
+-ecran 2-3
+#### TODO
+-barre de recherche
+-stockage en cache
