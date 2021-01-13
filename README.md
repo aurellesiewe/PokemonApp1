@@ -1,5 +1,5 @@
 # PokemonApp1
-##Présentation
+## Présentation
 PokemonApp1 est une application mobile codée en java qui affiche la liste des differents pokemons existant et diverses details les 
 concernant (la taille, le poids, le nom et l'id). Ces diffenrentes information sont obtenues par le biais d'une API: **pokeapi.co**.
 ### Prérequis
